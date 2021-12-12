@@ -1,0 +1,28 @@
+/* https://mycolor.space/?hex=%23101E38&sub=1 */
+
+/* General styles */
+body {
+  background-color: #101e38;
+  color: #f5f9ff;
+  min-height: 100vh;
+}
+
+/* Test clases */
+.red {
+  border: 1px solid red;
+}
+
+.blue {
+  border: 1px solid blue;
+}
+
+.gray {
+  border: 1px solid gray;
+}
+
+.yellow {
+  border: 1px solid yellow;
+}
+/* Container styles */
+.container {
+}
