@@ -5,6 +5,14 @@
 	color-blur-light-two: #2a669b;
 */
 
+/* 
+	color-yellow: #fff7d6;
+	color-blue-background: #101e38;
+	color-blue-light: #2490ff;
+	color-gray-light: #727687;
+
+*/
+
 /* General styles */
 body {
   background-color: #101e38;
@@ -28,6 +36,17 @@ body {
 .yellow {
   border: 1px solid yellow;
 }
+
 /* Container styles */
 .container {
+}
+
+/* Hero styles */
+
+.title {
+  color: #2490ff;
+}
+
+.subtitle {
+  color: #727687;
 }
